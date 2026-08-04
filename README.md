@@ -63,6 +63,6 @@ Player asset: Generated via ChatGPT
 Brick asset: Generated via ChatGPT
 Player asset: Generated via ChatGPT
 
-Link to `docs/ASSET_MANIFEST.md`.
+Link to `docs/Asset_Manifest.txt`.
 
 .
