@@ -1,0 +1,12 @@
+
+## Test environment
+Visual Basic Studio
+- Project version or commit: 1
+- Computer or device: Windows 11 PC
+- Operating system: Windows OS
+- Date: 8/3/2026
+
+	Test 1: Empty Project
+Success, Pressing F5 or start button opens the Brick Blast Project.
+
+ 

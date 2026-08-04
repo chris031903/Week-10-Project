@@ -1,0 +1,9 @@
+# Reference Study Notes
+
+Use this document when an assignment asks you to study an existing application, game, tutorial, client example, or product before development.
+I referenced Galaga for the way that you clear waves on enemies. I chose this because I think that it would fit the game idea I had. As I was watching, I found that the way the enemies moved down toward the player appealing. 
+KEEP: Enemy Movement | WHY?: Appealing and fun. 
+I must find out how to keep the enemies moving as one while coming in various directions of the map. 
+
+In one short paragraph, explain how the study changed or confirmed your project plan.
+I believe that my reference of the way enemies move within Galaga will allow me to sharpen my game’s performance and keep my players engaged. An issue that could come up, is that I am unsure as how to proceed and move toward that goal. I think that despite this, the appeal of the varied enemy waves has confirmed my project plan and I would like to try. 

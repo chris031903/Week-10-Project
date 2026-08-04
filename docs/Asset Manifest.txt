@@ -1,0 +1,21 @@
+# Asset Manifest
+
+Use one row for every image, icon, sound, font, video, dataset, library, or other asset prepared for the project.
+
+| Final filename | Status | Asset type | Source or creator | Source link | License or permission | Changes made | Planned use |
+
+
+Brick asset.png | Ready| png File| Generated via ChatGPT| Brick Asset
+Door asset.png | Ready| png File| Generated via ChatGPT| End Point
+ dungeon Asset.png | Ready| png File| Generated via ChatGPT| Background
+Player asset.png | Ready| png File| Generated via ChatGPT| Player Character
+
+## Rules
+
+- Keep the original source link.
+- Record the license shown when you downloaded the asset.
+- Do not write "free" as the license. Name the actual license or permission.
+- Mark your own work as "Original work."
+- Mark AI-generated assets and name the tool used when the assignment permits them.
+- Store required attribution text in this file and in the final product when the license requires it.
+- Do not use an asset when its permission is unclear.

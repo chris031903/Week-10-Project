@@ -1,0 +1,82 @@
+# Development Document
+
+## Project
+
+- Project name: Brick Blast
+- Course and assignment: CS-120
+- Developer or team: Christian Calkins
+- Date started: 8/1/2026
+- Technology or language: Visual Basic .NET
+
+## Brief
+Work on the project.
+
+### Goal
+
+I am preparing my game project, I will create a retro brick breaker game. 
+
+### User or player
+
+Who will use or play this project? What should they be able to understand and do?
+CS-120 will be able to play the project. They should be able to understand the objective of the game and complete it. 
+
+### Required deliverables
+Context and Game Study, Prepared Environment, Development Doc, Adaptation Decisions, Prepared Assets, Readiness Review and Discord Proof.
+
+
+
+## Story or context
+
+Explain the world, situation, or real problem that gives the project meaning. You may create a new backstory or adapt one from earlier work when the assignment permits it.
+Bricks are in the way of your path. You must get past them in order to continue your exploration. You are an adventurer trying to look for treasure.
+## Product definition
+
+Describe the smallest complete version you expect to build and test.
+Breaking the blocks and the completion of the game via clearing every  block.
+
+## Reference study and adaptation
+Keep the format, keep the concept. Make assets, add to game, keep game simple. 
+## Systems and screens
+Start screen, game complete screen, game end(? Unsure.)
+Game Start button,  Game End  Display 
+## Information containers
+
+| Variable, property, list, or table | Data type | Purpose | Example value 
+ playerScore | Integer | Stores current Score | 1300 |
+
+## Actions
+
+| Function, procedure, method, or event | Purpose | Input | Result |
+|---|---|---|---|
+Player breaks block, gains score, spacebar is pressed, score goes up.
+## Environment
+
+- Required editor: Visual Studio
+- Required workload or SDK: .NET
+- Project template: VB.NET
+- Required packages or libraries: JSON, VB.NET, Github
+- Operating system or device: Windows PC
+- Proof that setup works: No errors, successful launch.
+
+## Assets
+
+Link to the Asset Manifest and list the assets needed for the first working version.
+
+Brickasset.png
+Doorasset.png
+Dungeonasset.png
+Playerasset.png
+
+## Milestones
+Assets added,
+Planning done: 8/2
+Development: Next week
+Empty Project: Completed, 8/3
+
+## Questions and decisions
+
+How can I streamline the blocks so that they fall in varying patterns for an entertaining level?
+## Risks
+
+List anything that could block the project, including missing tools, unclear requirements, asset permissions, difficult features, or time limits.
+Unknown variables, I don’t know how to vary the brick patterns or keep the patterns coming at timed intervals to keep the gameplay fun. 
