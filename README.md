@@ -59,10 +59,7 @@ Discord proof posted
 Need to List any problem that remains and explain how it affects the project.
 
 ## Asset credits
-Player asset: Generated via ChatGPT
-Brick asset: Generated via ChatGPT
-Player asset: Generated via ChatGPT
-
-Link to `docs/Asset_Manifest.txt`.
+Found in Asset Manifest:
+https://github.com/chris031903/Week-10-Project/blob/938e0cd7bb23d59f681e8a84583b72b3c9d0dedc/docs/Asset%20Manifest.txt
 
 .
