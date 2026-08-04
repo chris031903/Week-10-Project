@@ -36,6 +36,9 @@ List the actions a reviewer should test.
 Movement, block destruction.
 
 ## Graded requirements map
+SCREENSHOTS
+EVIDENCE
+EMPTY APP
           
 ## Repository map
 
