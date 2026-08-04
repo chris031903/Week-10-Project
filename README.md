@@ -36,9 +36,11 @@ List the actions a reviewer should test.
 Movement, block destruction.
 
 ## Graded requirements map
-SCREENSHOTS
-EVIDENCE
-EMPTY APP
+
+EVIDENCE: `evidence/`
+EMPTY APP:`Brick Blast/`
+DOCUMENTS: `docs/`
+
           
 ## Repository map
 
