@@ -38,9 +38,9 @@ Movement, block destruction.
 ## Graded requirements map
 
 EVIDENCE: `evidence/`
-EMPTY APP:`Brick Blast/`
+src:`Brick Blast/`
 DOCUMENTS: `docs/`
-
+ASSETS: `assets/`
           
 ## Repository map
 
